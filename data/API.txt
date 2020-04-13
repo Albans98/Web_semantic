@@ -1,0 +1,16 @@
+https://opendata.paris.fr/api/records/1.0/search/?dataset=velib-disponibilite-en-temps-reel&rows=500
+###################################################################################################
+https://download.data.grandlyon.com/ws/rdata/jcd_jcdecaux.jcdvelov/all.json?maxfeatures=500&start=1
+###################################################################################################
+https://data.strasbourg.eu/api/records/1.0/search/?dataset=stations-velhop&rows=500
+###################################################################################################
+
+######################################### not used #########################################
+https://saint-etienne-gbfs.klervi.net/gbfs/en/station_information.json
+
+https://www.data.gouv.fr/fr/datasets/etat-des-stations-de-velos-en-libre-service-en-temps-reel-1/#_
+
+https://download.data.grandlyon.com/ws/grandlyon/pvo_patrimoine_voirie.pvostationvelov/all.json?maxfeatures=500&start=1
+
+https://download.data.grandlyon.com/wfs/rdata?SERVICE=WFS&VERSION=1.1.0&outputformat=GEOJSON&request=GetFeature&typename=jcd_jcdecaux.jcdvelov&SRSNAME=urn:ogc:def:crs:EPSG::4171
+######################################### not used #########################################

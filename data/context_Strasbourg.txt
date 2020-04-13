@@ -1,0 +1,19 @@
+{
+"@context": {
+"@vocab":"http://www.owl-ontologies.com/stations-velos.owl#",
+"@base": "http://www.owl-ontologies.com/stations-velos.owl/",
+"na": {"@id":"name","@type":"http://www.w3.org/2001/XMLSchema#string"},
+"to":"capacity",
+"av":"available_bikes",
+"fr":"available_docks",
+"coordonnees":{"@id":"coordinate",
+					"@type":"http://www.w3.org/2001/XMLSchema#float"},
+
+"fields": { "@id": "_:fields", "@container": "@set" },
+ "lg":null,"la":null,"cb":null,
+
+"records":{ "@id": "_:records", "@container": "@list" },
+"record_timestamp":null,"datasetid":null,
+"id":null,"geometry":null,"recordid":null,
+"parameters":null,"nhits":null
+},

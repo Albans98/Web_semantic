@@ -1,0 +1,35 @@
+{
+"@context": {
+"@vocab":"http://www.owl-ontologies.com/stations-velos.owl#",
+"@base": "http://www.owl-ontologies.com/stations-velos.owl/",
+"gid": "@id",
+"name": "name",
+"bike_stands":{
+			"@id":"capacity",
+			"@type":"http://www.w3.org/2001/XMLSchema#integer"},
+"available_bikes":{
+			"@id":"available_bikes",
+			"@type":"http://www.w3.org/2001/XMLSchema#integer"},
+"available_bike_stands":{
+			"@id":"available_docks",
+			"@type":"http://www.w3.org/2001/XMLSchema#integer"},
+"status": "status",
+"lat":{"@id":"coordinate",
+		"@type":"http://www.w3.org/2001/XMLSchema#float"},
+"lng":{"@id":"coordinate",
+		"@type":"http://www.w3.org/2001/XMLSchema#float"},
+"commune":"ville",
+
+"values": { "@id": "_:values", "@container": "@list" },
+"number":null,"pole": null,"code_insee": null,
+"availability": null,"availabilitycode": null,
+"etat":null,"startdate": null,"langue":null,
+"last_update": null,"titre": null,"description": null,
+"nature": null,"bonus": null,"last_update_fme": null,
+"address": null,"address2": null,"banking": null,
+"nmarrond": null,"enddate": null,
+
+
+"table_href":null,"layer_name":null,
+"nb_results":null,"fields":null
+},

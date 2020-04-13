@@ -1,0 +1,9 @@
+cd C:\Users\HP\Desktop\A4\S08\dataMining\jena\bat
+
+set JENA_HOME=C:\Users\HP\Desktop\A4\S08\dataMining\jena
+
+riot.bat --output=RDF/XML C:\Users\HP\Desktop\A4\S08\dataMining\Projet\data\Paris.jsonld> C:\Users\HP\Desktop\A4\S08\dataMining\Projet\data\Paris.rdf
+
+riot.bat --output=RDF/XML C:\Users\HP\Desktop\A4\S08\dataMining\Projet\data\Lyon.jsonld> C:\Users\HP\Desktop\A4\S08\dataMining\Projet\data\Lyon.rdf
+
+riot.bat --output=RDF/XML C:\Users\HP\Desktop\A4\S08\dataMining\Projet\data\Strasbourg.jsonld> C:\Users\HP\Desktop\A4\S08\dataMining\Projet\data\Strasbourg.rdf

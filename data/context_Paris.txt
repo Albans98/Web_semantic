@@ -1,0 +1,23 @@
+{
+"@context": {
+"@vocab":"http://www.owl-ontologies.com/stations-velos.owl#",
+"@base": "http://www.owl-ontologies.com/stations-velos.owl/",
+"stationcode":"@id",
+"name": "name", 
+"capacity":"capacity",
+"numbikesavailable":"available_bikes",
+"numdocksavailable":"available_docks",
+"is_installed":"status",
+"coordonnees_geo":{"@id":"coordinate",
+					"@type":"http://www.w3.org/2001/XMLSchema#float"},
+"nom_arrondissement_communes":"ville",
+
+"fields": { "@id": "_:fields", "@container": "@set" },
+"datasetid":null, "is_renting":null,"is_returning":null,
+"ebike":null,"duedate":null,
+"mechanical":null,"record_timestamp":null,
+
+"records":{ "@id": "_:records", "@container": "@list" },
+"recordid":null,"geometry":null,
+"parameters":null,"nhits":null
+},

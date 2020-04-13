@@ -1,0 +1,499 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.owl-ontologies.com/stations-velos.owl#" > 
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5519">
+    <j.0:status>En panne</j.0:status>
+    <j.0:name>Plélo Colombier</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.680482E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8106125E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5531">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Voltaire</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.698107E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.810524E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5587">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Pont de Strasbourg</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.656028E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8109859E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5543">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Cité Judiciaire</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.68411E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8104771E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5571">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Sainte-Thérèse</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.663731E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8094986E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5515">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Gares - Solférino</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.671005E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8104162E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5527">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Horizons</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.689318E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8111621E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5539">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Pontchaillou Métro</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.692737E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8121481E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5507">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Fac de Droit</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.670735E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8118172E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5555">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Préfecture</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.694032E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8128453E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5523">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>La Rotonde</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.68677E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8106653E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5567">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Binquenais</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.667321E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8091594E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5535">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Pont de Châteaudun</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.664443E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8110264E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5547">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Beaulieu Chimie</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.633875E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8116458E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5562">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Clemenceau</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.674116E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8093292E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5530">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Guéhenno - Fougères</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.66635E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8119809E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5586">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Armorique</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.675501E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8129277E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5542">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Robidou</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.659499E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8109926E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5510">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Musée Beaux-Arts</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.67408E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8109601E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5582">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>La Poterie</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.644121E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8087282E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5526">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Les Lices</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.685037E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8112766E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5538">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Marbeuf</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.702077E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8111749E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5506">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Hôtel Dieu</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.677849E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8117596E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5522">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Oberthur</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.661853E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.811355E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5578">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Gros-Chêne</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.665101E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8126795E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5534">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Brest - Verdun</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.693264E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8113009E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5546">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Plaine de Baud</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.643674E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8112461E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5502">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Mairie</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.678757E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8111624E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5514">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Laënnec</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.665814E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8106846E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5509">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Saint-Georges</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.674417E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8112385E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5585">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>La Courrouze</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.694512E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8099043E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5521">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>La Criée</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.680085E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8107626E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5581">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Turmel</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.650808E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8122147E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5561">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Jacques Cartier</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.674307E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8097533E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5537">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Auberge de Jeunesse</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.681876E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8120876E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5505">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Sainte-Anne</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.680461E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.811421E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5517">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Charles de Gaulle</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.677119E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8105111E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5533">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Anatole France</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.688466E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.811817E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5501">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>République</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.678037E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8110026E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5569">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Champs Manceaux</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.682284E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8091114E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5540">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Pierre Martin</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.66209E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.810305E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5552">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Villejean-Université</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.704122E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8121076E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5520">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Pont de Nantes</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.684015E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8102015E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5580">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Painlevé</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.660547E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8122994E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5560">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Cucillé</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.698129E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8128788E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5504">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Place Hoche</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.677073E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8115074E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5548">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Beaulieu Restau U</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.638368E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8122048E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5516">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Champs Libres</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.674328E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8105537E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5528">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Chèques Postaux</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.693432E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8108765E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5544">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Metz - Sévigné</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.658258E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8115993E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5588">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Gare Sud</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.673959E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8102055E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5512">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>TNB</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.673711E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8107748E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5556">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Berger</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.705097E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8116314E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5524">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Place de Bretagne</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.684041E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.81097E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</j.0:available_bikes>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/stations-velos.owl/5536">
+    <j.0:status>En fonctionnement</j.0:status>
+    <j.0:name>Paul Bert</j.0:name>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.670039E0</j.0:coordinate>
+    <j.0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8110115E1</j.0:coordinate>
+    <j.0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</j.0:capacity>
+    <j.0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</j.0:available_docks>
+    <j.0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</j.0:available_bikes>
+  </rdf:Description>
+</rdf:RDF>
